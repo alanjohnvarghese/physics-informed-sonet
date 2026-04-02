@@ -59,4 +59,4 @@ If you find this work useful, please consider citing:
 
 ## Contact
 
-For questions or discussions, please open an issue or contact [Your Name](mailto:your@email.com).
+For questions or discussions, please open an issue or contact [Alan](alan_john_varghese@brown.edu) or [Shanqing](shanqing_liu@brown.edu).
