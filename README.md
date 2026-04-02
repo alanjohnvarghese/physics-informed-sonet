@@ -16,10 +16,9 @@ Official repository for the paper:
 
 ## Overview
 
-*(1–3 sentence summary of what SONet is and what problem it solves. You can paste your abstract here or write a short plain-language version.)*
-![Figure description](assets/overview_figure.png)
+*PI-SONet is a structure-preserving operator learning framework for parameterized families of optimal control problems. It combines a latent Hamiltonian solver with a conditional symplectic operator to approximate PMP solution operators while preserving Hamiltonian structure by construction.*
 
-![Teaser Figure](animations/teaser.gif) *(or a representative figure from the paper)*
+![Figure description](assets/overview_figure.png)
 
 ---
 
