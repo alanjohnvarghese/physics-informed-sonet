@@ -16,7 +16,7 @@ Official repository for the paper:
 
 ## Overview
 
-*PI-SONet is a structure-preserving operator learning framework for parameterized families of optimal control problems. It combines a latent Hamiltonian solver with a conditional symplectic operator to approximate PMP solution operators while preserving Hamiltonian structure by construction.*
+*PI-SONet is a structure-preserving operator learning framework for parameterized families of optimal control problems. It combines a latent Hamiltonian solver with a conditional symplectic operator to approximate PMP solution operators while preserving symplectic structure by construction.*
 
 ![Figure description](assets/overview_figure.png)
 
