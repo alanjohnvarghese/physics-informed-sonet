@@ -37,7 +37,7 @@ The `animations/` folder contains animations corresponding to the figures in the
 
 > 🔒 **The full codebase will be released upon acceptance of the paper.** Stay tuned!
 
-In the meantime, feel free to reach out with any questions (see contact below).
+In the meantime, feel free to reach out with any questions.
 
 ---
 
@@ -58,4 +58,4 @@ If you find this work useful, please consider citing:
 
 ## Contact
 
-For questions or discussions, please open an issue or contact [Alan](alan_john_varghese@brown.edu) or [Shanqing](shanqing_liu@brown.edu).
+For questions or discussions, please open an issue.<!-- or contact [Alan](alan_john_varghese@brown.edu) or [Shanqing](shanqing_liu@brown.edu).-->
