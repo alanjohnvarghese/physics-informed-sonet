@@ -1,4 +1,4 @@
-# Physics-Informed Symplectic Operator Network (SONet)
+# Physics-Informed Symplectic Operator Network
 
 [![Paper](https://img.shields.io/badge/paper-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
