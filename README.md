@@ -23,6 +23,7 @@ Official repository for the paper:
 ---
 
 ## Animations
+
 The `animations/` folder contains animations corresponding to the figures in the paper.
 
 | Animation | Description |
@@ -38,6 +39,7 @@ The `animations/` folder contains animations corresponding to the figures in the
 | `animations/figure4/three_dim.html` | Interactive 3D visualization of Figure 4b. Download and open in any browser to rotate, zoom, and inspect the three-dimensional trajectories freely. |
 
 In all animations, colored curves denote agent trajectories, blue arrows denote velocity vectors, and red arrows denote control inputs.
+
 ---
 
 ## Code
