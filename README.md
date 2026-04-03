@@ -23,14 +23,21 @@ Official repository for the paper:
 ---
 
 ## Animations
-
 The `animations/` folder contains animations corresponding to the figures in the paper.
 
 | Animation | Description |
 |-----------|-------------|
-| `animations/figure_X.gif` | *(describe what it shows)* |
-| `animations/figure_Y.gif` | *(describe what it shows)* |
+| `animations/figure2/free.gif` | Multi-agent collision avoidance in free space (Figure 2a). |
+| `animations/figure2/obstacle.gif` | Multi-agent navigation around a circular obstacle (Figure 2b). |
+| `animations/figure2/maze.gif` | Multi-agent navigation in a maze-like environment (Figure 2c). |
+| `animations/figure3/small.gif` | Generalization to a small circular obstacle (Figure 3a). |
+| `animations/figure3/intermediate.gif` | Generalization to an intermediate circular obstacle (Figure 3b). |
+| `animations/figure3/large.gif` | Generalization to a large circular obstacle (Figure 3c). |
+| `animations/figure4/two_dim.gif` | Planar navigation with heterogeneous agents around a circular obstacle (Figure 4a). |
+| `animations/figure4/three_dim.gif` | Three-dimensional navigation with heterogeneous agents in a cluttered environment (Figure 4b). |
+| `animations/figure4/three_dim.html` | Interactive 3D visualization of Figure 4b. Download and open in any browser to rotate, zoom, and inspect the three-dimensional trajectories freely. |
 
+In all animations, colored curves denote agent trajectories, blue arrows denote velocity vectors, and red arrows denote control inputs.
 ---
 
 ## Code
