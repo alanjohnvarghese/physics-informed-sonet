@@ -1,6 +1,6 @@
 # Physics-Informed Symplectic Operator Network
 
-[![Paper](https://img.shields.io/badge/paper-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/paper-arXiv-red)](https://arxiv.org/abs/2605.14332)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <!--
@@ -54,12 +54,14 @@ In the meantime, feel free to reach out with any questions.
 
 If you find this work useful, please consider citing:
 ```bibtex
-@article{yourkey2025sonet,
-  title     = {Physics-Informed Symplectic Operator Network (SONet)},
-  author    = {Author 1 and Author 2 and Author 3},
-  journal   = {Conference/Journal Name},
-  year      = {2025},
-  url       = {https://arxiv.org/abs/XXXX.XXXXX}
+@misc{varghese2026pisonetphysicsinformedsymplecticoperator,
+      title={PI-SONet: A Physics-Informed Symplectic Operator Network for Real-Time Optimal Control of Multi-Agent Systems}, 
+      author={Alan John Varghese and Shanqing Liu and Paula Chen and Yaochen Zhu and Jérôme Darbon and George Em Karniadakis},
+      year={2026},
+      eprint={2605.14332},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2605.14332}, 
 }
 ```
 
